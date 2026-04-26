@@ -36,9 +36,9 @@ This repository contains our group's final project for CMPINF 0010. We define "b
 ## Repository Contents
 
 - `README.md` — This file
-- `kevin_higher_education.ipynb` — Kevin's individual analysis notebook
-- `sadia_green_spaces.ipynb` — Sadia's individual analysis notebook
-- `final_project_combined.ipynb` — Combined presentation notebook with merged metric and conclusions from both members
+- `kh final project.ipynb` — Kevin's individual analysis notebook
+- `Green Space Analysis.ipynb` — Sadia's individual analysis notebook
+- `CombinedNotebook.ipynb` — Combined presentation notebook with merged metric and conclusions from both members
 - `higher_education_metric.csv` — Kevin's exported sub-metric data
 - `green_spaces.csv` — Sadia's green spaces dataset
 
