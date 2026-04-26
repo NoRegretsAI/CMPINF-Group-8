@@ -52,4 +52,4 @@ Each sub-metric was normalized and weighted equally to produce a single combined
 
 ## Result
 
-See `final_project_combined.ipynb` for our final ranking and conclusion.
+See `CombinedNotebook.ipynb` for our final ranking and conclusion.
