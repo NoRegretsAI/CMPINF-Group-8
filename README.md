@@ -9,8 +9,8 @@ This repository contains our group's final project for CMPINF 0010. We define "b
 ## Team Members
 
 | Name | Email | Notebook |
-| Kevin Harned | krh220@pitt.edu | `kevin_higher_education.ipynb` |
-| Sadia Azizi | saa981@pitt.edu | `sadia_green_spaces.ipynb` |
+| Kevin Harned | krh220@pitt.edu | `kh final project.ipynb` |
+| Sadia Azizi | saa981@pitt.edu | `Green Space Analysis.ipynb` |
 
 **Canvas Group Number:** Final Project Group 8
 
