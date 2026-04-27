@@ -17,10 +17,10 @@ This repository contains our group's final project for CMPINF 0010. We define "b
 ---
 
 ## Datasets Used
-| Dataset | Source | Description |
-|---------|--------|-------------|
-| [School Enrollment by Race/Ethnicity](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment) | WPRDC — American Community Survey 2015 | School enrollment broken down by grade level and race/ethnicity across Pittsburgh neighborhoods. Used to calculate the percentage of residents enrolled in college or graduate school. |
-| [Green Spaces in Pittsburgh](https://data.wprdc.org/dataset/operations-green-spaces) | WPRDC | Locations of parks and green spaces across Pittsburgh neighborhoods. Used to count green space availability per neighborhood. |
+| Dataset | Source | Link | Description |
+|---------|--------|------|-------------|
+| School Enrollment by Race/Ethnicity | WPRDC — American Community Survey 2015 | https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment | School enrollment broken down by grade level and race/ethnicity across Pittsburgh neighborhoods. Used to calculate the percentage of residents enrolled in college or graduate school. |
+| Green Spaces in Pittsburgh | WPRDC | https://data.wprdc.org/dataset/operations-green-spaces | Locations of parks and green spaces across Pittsburgh neighborhoods. Used to count green space availability per neighborhood. |
 
 ---
 
